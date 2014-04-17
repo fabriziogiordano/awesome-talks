@@ -2,9 +2,10 @@
 
 There are a lot of screencasts, recordings of user group gatherings and conference talks available online. I try to commit myself watching at least two new talks every week, and I've been doing this for quite some time now. I created this list of online talks that I really enjoyed watching. I'll also be updating this list whenever I've watched another *awesome* talk that is worthy enough. Suggestions are always appreciated through a pull request. So without further ado ..
 
-(In no particular order)
+(✓ In no particular order)
 
-- ✓ [The Computer Revolution hasn't happend yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) by **Alan Kay**
+- [JS.everywhere(Europe) 2012: Testacular, the Spectacular Java](http://www.youtube.com/watch?v=5mHjJ4xf_K0)
+- The Computer Revolution hasn't happend yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) by **Alan Kay**
 - [The Future of Programming](https://vimeo.com/71278954) by **Bret Victor**
 - [Inventing on Principle](https://vimeo.com/36579366) by **Bret Victor**
 - [Finding a Way Out](http://www.infoq.com/presentations/reimagining-software) by **Chris Granger**
