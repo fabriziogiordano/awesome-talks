@@ -4,7 +4,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 (In no particular order)
 
-- [The Computer Revolution hasn't happend yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) by **Alan Kay**
+- ✓ [The Computer Revolution hasn't happend yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) by **Alan Kay**
 - [The Future of Programming](https://vimeo.com/71278954) by **Bret Victor**
 - [Inventing on Principle](https://vimeo.com/36579366) by **Bret Victor**
 - [Finding a Way Out](http://www.infoq.com/presentations/reimagining-software) by **Chris Granger**
